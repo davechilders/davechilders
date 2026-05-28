@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Dave.
 
-Research-oriented data scientist with background in statistics and causal inference. I design and conduct rigorous analyses to determine whether interventions, products, and policies actually move the needle.
+Data scientist with background in statistics and causal inference. I design and conduct rigorous analyses to determine whether interventions, products, and policies actually move the needle.
 
 🌐 [Portfolio](https://davechilders.github.io)
 
