@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Dave.
 
-Data scientist with background in statistics and causal inference. I design and conduct rigorous analyses to determine whether interventions, products, and policies actually move the needle.
+Statistician and data scientist with expertise in R programming, statistical modeling, and data visualization. My work spans scientific research, statistical consulting, and software product development, with a particular interest in the intersection of statistics, software, and scientific communication.
 
 🌐 [Portfolio](https://davechilders.github.io)
 
